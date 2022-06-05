@@ -1,0 +1,8 @@
+div.dataTables_filter,
+div.dataTables_length {
+  display: inline-block;
+  margin-left: 1em;
+}
+div.dataTables_filter {
+  float: right;
+}
